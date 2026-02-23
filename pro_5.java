@@ -1,6 +1,12 @@
 import java.util.*;
 public class pro_5 {
     public static void main(String[] args) {
+        //Pattern problem
+        // * * * * *
+        // * * * * *
+        // * * * * *
+        // * * * * *
+        
         Scanner sc= new Scanner(System.in);
         System.out.print("Enter the no of col: ");
         int col=sc.nextInt();
@@ -12,5 +18,6 @@ public class pro_5 {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
