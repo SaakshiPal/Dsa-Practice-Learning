@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pro_26",
+            "request": "launch",
+            "mainClass": "pro_26",
+            "projectName": "Dsa-Practice-Learning_cdc82b5a"
+        },
+        {
+            "type": "java",
             "name": "Attach to Remote Program",
             "request": "attach",
             "hostName": "<The host name or ip address of remote debuggee>",
