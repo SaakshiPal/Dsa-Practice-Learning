@@ -20,8 +20,8 @@ public class pro_26 {
                 max=arr[i];
             }
         }
-        System.out.println("The maximum element in the array is: "+max);
-        System.out.println("The minimum elemnt in the array is: "+min);
+        System.out.println("The maximum element in the array is : "+max);
+        System.out.println("The minimum elemnt in the array is : "+min);
         sc.close();
 
         
