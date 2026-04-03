@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pro_6",
+            "request": "launch",
+            "mainClass": "pro_6",
+            "projectName": "Dsa-Practice-Learning_cdc82b5a"
+        },
+        {
+            "type": "java",
+            "name": "pro_5",
+            "request": "launch",
+            "mainClass": "pro_5",
+            "projectName": "Dsa-Practice-Learning_cdc82b5a"
+        },
+        {
+            "type": "java",
             "name": "pro_4",
             "request": "launch",
             "mainClass": "pro_4",
